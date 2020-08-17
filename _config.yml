@@ -15,6 +15,7 @@ navbar-links:
   About Me: "aboutme"
   Researches: "aboutme"
   Expriences: "aboutme"
+  
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -31,7 +32,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: /path/to/image
 
 
 # --- Footer options --- #
