@@ -14,11 +14,11 @@ author: Wenxing Deng
 navbar-links:
   About Me: "aboutme"
   Researches: "researches"
-  Expriences: "aboutme"
+  Expriences: "researches"
   
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+ # Resources:
+ #   - Beautiful Jekyll: "https://beautifuljekyll.com"
+ #   - Learn markdown: "https://www.markdowntutorial.com/"
  # Author's home: "https://deanattali.com"
 
 # --- Logo --- #
@@ -42,10 +42,10 @@ round-avatar: true
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "wenxing_deng@outlook.com"
-  facebook: Wenxing Deng
-  github: daattali
+  facebook: @Wenxing Deng
+  github: WenxingDeng
 #  twitter: daattali
-  rss: true
+ # rss: true
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
