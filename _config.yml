@@ -1,7 +1,7 @@
 # --- Basic options --- #
 
 # Name of website
- title: Wenxing Deng's website
+title: Wenxing Deng's website
 
 # Short description of your site
 description: A virtual proof that I'm awesome
@@ -16,9 +16,9 @@ navbar-links:
   Researches: "researches"
   Expriences: "experiences"
   
-  Resources:
+ # Resources:
  #   - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+ #   - Learn markdown: "https://www.markdowntutorial.com/"
  # Author's home: "https://deanattali.com"
 
 # --- Logo --- #
