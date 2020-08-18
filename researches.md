@@ -20,9 +20,12 @@ title: Researches
   - Defined rollout life cycle states for each new release.
   - ITIL compliant syncing of the release data into centralized CMDB.   
   
-## <i class="fa fa-align-left" aria-hidden="true"></i> Publications
+## <i class="fa fa-align-left" aria-hidden="true"></i> Publications  
 
 * **UI-FAME: A High-Performance Forgetting System for Creating Views of Ontologies**  
   Xuan Wu, **Wenxing Deng**, Chang Lu, Peiqi Wei, Yizheng Zhao and Hao Feng  
   _In 29th ACM International Conference on Information and Knowledge Management (CIKM) 2020._    
   [[PAPER]](/pub/CIKM_2020_paper_2000.pdf)
+  
+
+
