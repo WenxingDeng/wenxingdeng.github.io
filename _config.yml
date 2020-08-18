@@ -87,10 +87,10 @@ excerpt_length: 50
 #keywords: "my,list,of,keywords"
 
 # --- Colours / background image --- #
-navbar-col: "#FFFFFF"
+navbar-col: "#e6fbfc"
 navbar-text-col: "#787575"
 navbar-border-col: "#FFFFFF"
-page-col: "#cdf5f7"
+# page-col: "#cdf5f7"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
@@ -106,7 +106,7 @@ footer-link-col: "#404040"
 
 # navbar-img: "/assets/img/bgimage.png"
 # footer-img: "/assets/img/IMG_8664.JPG"
-# page-img: "/assets/img/page.JPG"
+page-img: "/assets/img/back.jpg"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
