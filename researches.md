@@ -3,18 +3,14 @@ layout: page
 title: Researches
 ---
 ## <i class="fa fa-cubes" aria-hidden="true"></i> Projects  
+
 * **Robot(2019)**  
   Beijing University of Technology
-  * 1  
-  * 2  
-  * 3
-  
-  
-* **Ontology(2019 - 2020)**  
-  Remote           
-  * 1  
-  * 2  
-  * 3  
+
+  - Added automated aggregation of release details for each hosted application.
+  - Added changelog workflow for documenting releases.
+  - Defined rollout life cycle states for each new release.
+  - ITIL compliant syncing of the release data into centralized CMDB.
   
 ## <i class="fa fa-align-left" aria-hidden="true"></i> Publications
 
