@@ -7,13 +7,13 @@ title: Researches
   Beijing University of Technology
   * 1  
   * 2  
-  * 3         
+  * 3                         <br/>
 * **Ontology(2019 - 2020)**  
   Remote           
   * 1  
   * 2  
   * 3  
-## <i class="fa fa-align-left" aria-hidden="true"></i> Publications  
+## <i class="fa fa-align-left" aria-hidden="true"></i> Publications   <br/>
 
 * **UI-FAME: A High-Performance Forgetting System for Creating Views of Ontologies**  
   Xuan Wu, **Wenxing Deng**, Chang Lu, Peiqi Wei, Yizheng Zhao and Hao Feng  
