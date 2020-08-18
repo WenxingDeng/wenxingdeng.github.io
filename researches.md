@@ -18,8 +18,11 @@ title: Researches
   - Added automated aggregation of release details for each hosted application.
   - Added changelog workflow for documenting releases.
   - Defined rollout life cycle states for each new release.
-  - ITIL compliant syncing of the release data into centralized CMDB.
+  - ITIL compliant syncing of the release data into centralized CMDB.   
   
-## <i class="fa fa-align-left" aria-hidden="true"></i> Publications  
+## <i class="fa fa-align-left" aria-hidden="true"></i> Publications
 
-* **Robot(2019)**  
+* **UI-FAME: A High-Performance Forgetting System for Creating Views of Ontologies**  
+  Xuan Wu, **Wenxing Deng**, Chang Lu, Peiqi Wei, Yizheng Zhao and Hao Feng  
+  _In 29th ACM International Conference on Information and Knowledge Management (CIKM) 2020._    
+  [[PAPER]](/pub/CIKM_2020_paper_2000.pdf)
