@@ -4,7 +4,7 @@ title: Volunteer Experience
 ---
 
 **Camp Name: Fountains, wash houses and other treasures**  
-**15. 07. 2019 to 26. 07. 2019**
+**Time: 15. 07. 2019 to 26. 07. 2019**
 
 I attended the volunteer camp held by an association named Activar in Portugal in 2019. I worked with volunteers came from Spain, Turkey, Italy, France, Mexico, Belgium, Czech 
 Republic, Russia, Germany, Denmark and Portugal for two weeks.  
