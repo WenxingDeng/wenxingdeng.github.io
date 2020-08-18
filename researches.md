@@ -3,20 +3,18 @@ layout: page
 title: Researches
 ---
 ## <i class="fa fa-cubes" aria-hidden="true"></i> Projects  
-
 * **Robot(2019)**  
   Beijing University of Technology
   * 1  
   * 2  
-  * 3  
-
+  * 3         
 * **Ontology(2019 - 2020)**  
   Remote           
   * 1  
   * 2  
   * 3  
+## <i class="fa fa-align-left" aria-hidden="true"></i> Publications  
 
-## <i class="fa fa-align-left" aria-hidden="true"></i> Publications
 * **UI-FAME: A High-Performance Forgetting System for Creating Views of Ontologies**  
   Xuan Wu, **Wenxing Deng**, Chang Lu, Peiqi Wei, Yizheng Zhao and Hao Feng  
   _In 29th ACM International Conference on Information and Knowledge Management (CIKM) 2020._    
