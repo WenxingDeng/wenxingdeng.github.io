@@ -17,7 +17,8 @@ body {
   position: relative;
   background-color: {{ site.page-col | default: "#FFFFFF" }};
   {% if site.page-img %}
-  background-image: url({{ site.page-img | relative_url }});
+  /*background-image: url({{ site.page-img | relative_url }});*/
+  background-image: url(/assets/img/page.JPG);
   background-attachment: fixed;
   {% endif %}
 }
@@ -31,7 +32,7 @@ h1,h2,h3,h4,h5,h6 {
   line-height: 1.1;
 }
 h1 {
-  font-size: 2.25rem;
+  font-size: 2rem;
 }
 h2 {
   font-size: 1.875rem;
