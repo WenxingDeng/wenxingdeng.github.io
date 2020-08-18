@@ -96,7 +96,7 @@ excerpt_length: 50
 # instead of colour
 
 # navbar-img: "/assets/img/bgimage.png"
-# footer-img: "/assets/img/IMG_8664.JPG"
+footer-img: "/assets/img/IMG_8664.JPG"
 page-img: "/assets/img/page.JPG"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
