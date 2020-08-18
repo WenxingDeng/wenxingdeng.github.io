@@ -87,7 +87,16 @@ excerpt_length: 50
 #keywords: "my,list,of,keywords"
 
 # --- Colours / background image --- #
-
+navbar-col: "#FFFFFF"
+navbar-text-col: "#787575"
+navbar-border-col: "#FFFFFF"
+# page-col: "#FFFFFF"
+text-col: "#404040"
+link-col: "#008AFF"
+hover-col: "#0085A1"
+footer-col: "#EAEAEA"
+footer-text-col: "#777777"
+footer-link-col: "#404040"
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 
