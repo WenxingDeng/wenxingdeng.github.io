@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Volunteer Experience
+cover-img:	# /path/to/img - or multiple entries <- "Path": "Description">
+  - "/img/bigimg/kristopher-roller.jpg" : "Photo by Kristopher Roller"
 ---
 
 **Camp Name: Fountains, wash houses and other treasures**  
