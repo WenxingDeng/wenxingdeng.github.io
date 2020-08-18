@@ -1,7 +1,7 @@
 # --- Basic options --- #
 
 # Name of website
-title: Wenxing Deng's website
+title: Wenxing Deng（邓文星）
 
 # Short description of your site
 # description: A virtual proof that I'm awesome 
@@ -90,7 +90,7 @@ excerpt_length: 50
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#FFFFFF"
-navbar-text-col: "#EAEAEA"
+navbar-text-col: "#999696"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
