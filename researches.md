@@ -2,7 +2,7 @@
 layout: page
 title: Researches
 cover-img:	# /path/to/img - or multiple entries <- "Path": "Description">
-  - "/img/bigimg/kristopher-roller.jpg" : "Photo by Kristopher Roller"
+  - "/img/bigimg/jess-bailey.jpg" : "Photo by Jess Bailey"
 
 ---
 ## <i class="fa fa-cubes" aria-hidden="true"></i> Projects  
