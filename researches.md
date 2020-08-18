@@ -18,8 +18,9 @@ title: Researches
   - Added automated aggregation of release details for each hosted application.
   - Added changelog workflow for documenting releases.
   - Defined rollout life cycle states for each new release.
-  - ITIL compliant syncing of the release data into centralized CMDB.   
-  
+  - ITIL compliant syncing of the release data into centralized CMDB.     
+
+
 ## <i class="fa fa-align-left" aria-hidden="true"></i> Publications  
 
 * **UI-FAME: A High-Performance Forgetting System for Creating Views of Ontologies**  
