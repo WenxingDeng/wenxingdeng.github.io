@@ -4,17 +4,17 @@ title: Researches
 ---
 ## Projects  
 
-### Robot(2019)
-Beijing University of Technology
-* 1  
-* 2  
-* 3  
+* **Robot(2019)**
+  Beijing University of Technology
+  * 1  
+  * 2  
+  * 3  
 
-### Ontology(2019 - 2020)
-Remote           
-* 1  
-* 2  
-* 3  
+* **Ontology(2019 - 2020)**
+  Remote           
+  * 1  
+  * 2  
+  * 3  
 
 ## Publications
 * **UI-FAME: A High-Performance Forgetting System for Creating Views of Ontologies**  
