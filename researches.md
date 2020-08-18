@@ -4,13 +4,13 @@ title: Researches
 ---
 ## Projects  
 
-* **Robot(2019)**
+* **Robot(2019)**  
   Beijing University of Technology
   * 1  
   * 2  
   * 3  
 
-* **Ontology(2019 - 2020)**
+* **Ontology(2019 - 2020)**  
   Remote           
   * 1  
   * 2  
