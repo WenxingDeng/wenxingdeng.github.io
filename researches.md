@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Researches
-cover-img:	# /path/to/img - or multiple entries <- "Path": "Description">
+cover-img:	
   - "/img/bigimg/jess-bailey.jpg" : "Photo by Jess Bailey"
 
 ---
