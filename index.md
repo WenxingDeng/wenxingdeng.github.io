@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: Wenxing Deng's Homepage
 subtitle: This is where I will tell my friends way too much about me
 cover-img:	
