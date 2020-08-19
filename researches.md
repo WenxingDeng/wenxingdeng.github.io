@@ -24,8 +24,8 @@ cover-img:	# /path/to/img - or multiple entries <- "Path": "Description">
   - ITIL compliant syncing of the release data into centralized CMDB.     
 
 
+  
 ## <i class="fa fa-align-left" aria-hidden="true"></i> Publications  
-
 
 * **UI-FAME: A High-Performance Forgetting System for Creating Views of Ontologies**  
   Xuan Wu, **Wenxing Deng**, Chang Lu, Peiqi Wei, Yizheng Zhao and Hao Feng  
