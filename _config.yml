@@ -4,7 +4,7 @@
 title: Wenxing Deng（邓文星）<i class="fa fa-child" aria-hidden="true"></i>
 
 # Short description of your site
-# description: A virtual proof that I'm awesome 
+description: A virtual proof that I'm awesome
 
 # Your name to show in the footer
 author: Wenxing Deng
@@ -16,10 +16,10 @@ navbar-links:
   Researches: "researches"
   Expriences: "experiences"
   Resources:
- #   - Beautiful Jekyll: "https://beautifuljekyll.com"
- #   - Learn markdown: "https://www.markdowntutorial.com/"
+    #- Beautiful Jekyll: "https://beautifuljekyll.com"
+    #- Learn markdown: "https://www.markdowntutorial.com/"
     - Beijing University of Technology: http://english.bjut.edu.cn/
- # Author's home: "https://deanattali.com"
+  # Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
@@ -32,7 +32,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: /path/to/image
+#title-img: /path/to/image
 
 
 # --- Footer options --- #
@@ -45,7 +45,7 @@ social-network-links:
   facebook: Wenxing Deng
   github: WenxingDeng
 #  twitter: daattali
- # rss: true
+#  rss: true
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -71,7 +71,7 @@ share-links-active:
   twitter: true
   facebook: true
   linkedin: true
-  # vk: false
+  vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
@@ -87,9 +87,12 @@ excerpt_length: 50
 #keywords: "my,list,of,keywords"
 
 # --- Colours / background image --- #
+
+# Personalize the colours in your website. Colour values can be any valid CSS colour
+
 navbar-col: "#e6fbfc"
 navbar-text-col: "#787575"
-navbar-border-col: "#FFFFFF"
+navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
@@ -97,16 +100,13 @@ hover-col: "#0085A1"
 footer-col: "#e6fbfc"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
-# Personalize the colours in your website. Colour values can be any valid CSS colour
-
-
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-# navbar-img: "/assets/img/bgimage.png"
-# footer-img: "/assets/img/IMG_8664.JPG"
-# page-img: "/assets/img/bgimage.png"
+#navbar-img: "/assets/img/bgimage.png"
+#footer-img: "/assets/img/bgimage.png"
+#page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
@@ -182,7 +182,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "Asia/Beijing"
+timezone: "America/Vancouver"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
@@ -208,7 +208,6 @@ defaults:
     values:
       layout: "page"
       show-avatar: true
- 
 
 # Exclude these files from production site
 exclude:
@@ -227,4 +226,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-
