@@ -24,7 +24,7 @@ cover-img:
   - ITIL compliant syncing of the release data into centralized CMDB.     
 
 
-  
+  <br />
 ## <i class="fa fa-align-left" aria-hidden="true"></i> Publications  
 
 * **UI-FAME: A High-Performance Forgetting System for Creating Views of Ontologies**  
