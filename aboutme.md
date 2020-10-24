@@ -18,3 +18,5 @@ Hi! My name is Wenxing Deng. I'm now a senior student in [Beijing University of 
 ### <i class="fa fa-graduation-cap" aria-hidden="true"></i> Education
 * Bachelor of Engineering(2017-2021), Automation, [Beijing University of Technology](http://english.bjut.edu.cn/)
 
+### <i class="fa fa-angellist" aria-hidden="true"></i> More Details about Me
+* 
