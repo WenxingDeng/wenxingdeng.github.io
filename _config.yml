@@ -17,7 +17,7 @@ navbar-links:
   Expriences: "experiences"
   Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
-    #- Learn markdown: "https://www.markdowntutorial.com/"
+    - Learn markdown: "https://www.markdowntutorial.com/"
     - Beijing University of Technology: http://english.bjut.edu.cn/
   # Author's home: "https://deanattali.com"
 
