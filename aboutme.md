@@ -12,11 +12,14 @@ Hi! My name is Wenxing Deng. I'm now a senior student in [Beijing University of 
 * mobile: +86 188-1072-5622
 * email: [wenxing_deng@outlook.com](mailto:wenxing_deng@outlook.com)
 
-### <i class="fa fa-clone" aria-hidden="true"></i> Profiles
+### <i class="fa fa-clone" aria-hidden="true"></i> Profile
 * [CV](/assets/img/page.JPG)
 
 ### <i class="fa fa-graduation-cap" aria-hidden="true"></i> Education
-* Bachelor of Engineering(2017-2021), Automation, [Beijing University of Technology](http://english.bjut.edu.cn/)
+* Bachelor of Engineering in Automation(2017-2021), [Beijing University of Technology](http://english.bjut.edu.cn/)
 
-### <i class="fa fa-angellist" aria-hidden="true"></i> More Details about Me
-* 
+### <i class="fa fa-star" aria-hidden="true"></i> More Details about Me
+* I love travelling and tasting different traditional foods. 
+* I love exercising and I am trying my best to keep fitness. Now I am following Pamela Reif's "15 MIN HIIT WORKOUT" and "20 MIN INTENSE FULL BODY".
+* I love spicy food!
+* I come from Nanchang, China.
