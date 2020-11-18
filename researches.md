@@ -34,7 +34,7 @@ cover-img:
 
 * **UI-FAME: A High-Performance Forgetting System for Creating Views of Ontologies**  
   Xuan Wu, **Wenxing Deng**, Chang Lu, Peiqi Wei, Yizheng Zhao and Hao Feng  
- _In 29th ACM International Conference on Information and Knowledge Management (CIKM) 2020._    
+ _In 29th ACM International Conference on Information and Knowledge Management (CIKM) 2020_    
   [[PAPER]](/pub/CIKM_2020_paper_2000.pdf)
 
 * **Tracking Semantic Evolutionary Changes in Large-Scale Medical Ontologies**  
@@ -43,7 +43,7 @@ cover-img:
   
 * **Adaptive Optimization of Traffic Signal Timing via Deep Reinforcement Learning**  
   Tongchao Cui, **Wenxing Deng**, Liguo Zhang, Zibo Ma, and Fengyao Jiang  
-  Submitted to _Journal of Advanced Transportation._ 
+  Submitted to _Journal of Advanced Transportation_ 
  
   
 
