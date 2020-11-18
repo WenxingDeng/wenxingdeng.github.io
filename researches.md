@@ -18,7 +18,7 @@ cover-img:
   - Implemented a deep reinforcement learning network (in Python), and reduced waiting time and average queue length in various traffic flow modes by more than 33.4% compared to the traditional timing control.
 
 * **UI-FAME: A High-Performance Forgetting System for~Creating Views of Ontologies(2019-2020)**
-  Remotely
+  Remotely  
   - Implemented and optimized the UI-FAME system for creating logical differences in description logic ontologies (in Java), useful for many ontology-based knowledge processing applications.
   - Developed a bespoke ontology analysis tool for the ontology processing and management tasks undertaken in Babylon Health, a digital healthcare company based in London.
   
@@ -42,8 +42,9 @@ cover-img:
   Submitted to _VLDB 2021_ 
   
 * **Adaptive Optimization of Traffic Signal Timing via Deep Reinforcement Learning**  
-  Tongchao Cui, **Wenxing Deng**, Liguo Zhang, Zibo Ma, and Fengyao Jiang
+  Tongchao Cui, **Wenxing Deng**, Liguo Zhang, Zibo Ma, and Fengyao Jiang  
   Submitted to _Journal of Advanced Transportation._ 
+ 
   
 
 
