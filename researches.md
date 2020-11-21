@@ -12,6 +12,7 @@ cover-img:
   - Developed a tailor-made uniform interpolation method for the task of computing logical difference in large-scale medical ontologies, serving as back-end technology in digital healthcare providers' knowledge base interface.
   - Identified reasoning focuses and demands, optimized codes for calculating logical difference, and handed over the set-up of the system with Babylon Health.  
   
+  
 * **Adaptive Optimization of Traffic Signal Timing via Deep Reinforcement**  
   Beijing University of Technology  
   - Proposed a traffic light timing optimization scheme based on deep reinforcement learning, which dynamically adjusts the green light time and phase at an intersection with the goal of minimizing vehicle delay time.
