@@ -14,7 +14,7 @@ cover-img:
   
 * **Computing Views of OWL Ontologies for the Semantic Web**  
   
-  - Developed a logic-based, principled approach to creating views of OWL ontologies specified in the description logic ALCHOI.
+  - Developed a logic-based, principled approach to creating views of OWL ontologies specified in the description logic $ALCHOI$.
   - Implemented a prototype of the approach, and compared it with existing tools LETHE and FAME, with results showing better success rates and performance.
   
   
