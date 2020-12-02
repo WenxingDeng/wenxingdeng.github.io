@@ -13,7 +13,7 @@ Hi! My name is Wenxing Deng. I'm now a senior student in [Beijing University of 
 * email: [wenxing_deng@outlook.com](mailto:wenxing_deng@outlook.com)
 
 ### <i class="fa fa-clone" aria-hidden="true"></i> Profile
-* [CV](/assets/Wenxing CV.pdf)
+* [CV](/assets/Wenxing_s_Resume.pdf)
 
 ### <i class="fa fa-graduation-cap" aria-hidden="true"></i> Education
 * Bachelor of Engineering in Automation(2017-2021), [Beijing University of Technology](http://english.bjut.edu.cn/)
