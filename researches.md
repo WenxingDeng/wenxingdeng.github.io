@@ -22,6 +22,7 @@ cover-img:
   
   - Proposed a traffic light timing optimization scheme based on deep reinforcement learning, which dynamically adjusts the green light time and phase at an intersection with the goal of minimizing vehicle delay time.
   - Implemented a deep reinforcement learning network (in Python), and reduced waiting time and average queue length in various traffic flow modes by more than 33.4% compared to the traditional timing control.  
+   
   
 * **UI-FAME: A High-Performance Forgetting System for~Creating Views of Ontologies**  
   Remotely  
