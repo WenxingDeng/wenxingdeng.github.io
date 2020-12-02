@@ -14,7 +14,7 @@ cover-img:
   
 * **Computing Views of OWL Ontologies for the Semantic Web**  
   
-  - Developed a logic-based, principled approach to creating views of OWL ontologies specified in the description logic ![](http://latex.codecogs.com/svg.latex?ALCHOI).
+  - Developed a logic-based, principled approach to creating views of OWL ontologies specified in the description logic ALCHOI.
   - Implemented a prototype of the approach, and compared it with existing tools LETHE and FAME, with results showing better success rates and performance.
   
   
@@ -36,16 +36,20 @@ cover-img:
 ## <i class="fa fa-align-left" aria-hidden="true"></i> Publications  
 
 * **UI-FAME: A High-Performance Forgetting System for Creating Views of Ontologies**  
-  Xuan Wu, **Wenxing Deng**, Chang Lu, Peiqi Wei, Yizheng Zhao and Hao Feng  
+  Xuan Wu, **Wenxing Deng**, Chang Lu, Peiqi Wei, Yizheng Zhao and Hao Feng.  
  _In 29th ACM International Conference on Information and Knowledge Management (CIKM) 2020_.    
-  [[PAPER]](/pub/CIKM_2020_paper_2000.pdf)
+  [[PAPER]](https://dl.acm.org/doi/10.1145/3340531.3417412)
 
+* **Computing Views of OWL Ontologies for the Semantic Web: A Forgetting-Based Approach**  
+  Jiaqi Li, **Wenxing Deng**, and Yizheng Zhao.
+  Submitted to _WWW 2021_(in rebuttal, current scores: accept, accept, weak accept).
+    
 * **Tracking Semantic Evolutionary Changes in Large-Scale Medical Ontologies**  
-  Zhao Liu, Brook Zhang, Chang Lu, **Wenxing Deng**, Hao Feng, and Yizheng Zhao  
+  Zhao Liu, Brook Zhang, Chang Lu, **Wenxing Deng**, Hao Feng, and Yizheng Zhao.  
   Submitted to _VLDB 2021_. 
   
 * **Adaptive Optimization of Traffic Signal Timing via Deep Reinforcement Learning**  
-  Tongchao Cui, **Wenxing Deng**, Liguo Zhang, Zibo Ma, and Fengyao Jiang  
+  Tongchao Cui, **Wenxing Deng**, Liguo Zhang, Zibo Ma, and Fengyao Jiang. 
   Submitted to _Journal of Advanced Transportation_. 
  
   
