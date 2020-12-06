@@ -14,7 +14,7 @@ cover-img:
   
 * **Computing Views of OWL Ontologies for the Semantic Web**  
   
-  - Developed a logic-based, principled approach to creating views of OWL ontologies specified in the description logic ALCHOI.
+  - Developed a logic-based, principled approach to creating views of OWL ontologies specified in the description logic ALCHIO.
   - Implemented a prototype of the approach, and compared it with existing tools LETHE and FAME, with results showing better success rates and performance.
   
   
@@ -23,14 +23,11 @@ cover-img:
   - Proposed a traffic light timing optimization scheme based on deep reinforcement learning, which dynamically adjusts the green light time and phase at an intersection with the goal of minimizing vehicle delay time.
   - Implemented a deep reinforcement learning network (in Python), and reduced waiting time and average queue length in various traffic flow modes by more than 33.4% compared to the traditional timing control.  
   
-  
 * **UI-FAME: A High-Performance Forgetting System for~Creating Views of Ontologies**  
-  Remotely  
+  
   - Implemented and optimized the UI-FAME system for a non-standard reasoning procedure called forgetting for OWL ontologies specified in the description logic ALC.
   - Designed ontology versioning framework for Babylon ontologies with UI-FAME as back-end, and conducted extensive trials in Babylon set-up with involvement of their software/knowledge engineers.  
   
-
- 
   
 
   <br />
@@ -43,7 +40,7 @@ cover-img:
 
 * **Computing Views of OWL Ontologies for the Semantic Web: A Forgetting-Based Approach**  
   Jiaqi Li, **Wenxing Deng**, and Yizheng Zhao.
-  Submitted to _WWW 2021_(in rebuttal, current scores: accept, accept, weak accept).
+  Submitted to _WWW 2021_.
     
 * **Tracking Semantic Evolutionary Changes in Large-Scale Medical Ontologies**  
   Zhao Liu, Brook Zhang, Chang Lu, **Wenxing Deng**, Hao Feng, and Yizheng Zhao.  
