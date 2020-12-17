@@ -42,9 +42,6 @@ cover-img:
   Jiaqi Li, **Wenxing Deng**, and Yizheng Zhao.
   Submitted to _WWW 2021_.
     
-* **Tracking Semantic Evolutionary Changes in Large-Scale Medical Ontologies**  
-  Zhao Liu, Brook Zhang, Chang Lu, **Wenxing Deng**, Hao Feng, and Yizheng Zhao.  
-  Submitted to _VLDB 2021_. 
   
 * **Adaptive Optimization of Traffic Signal Timing via Deep Reinforcement Learning**  
   Tongchao Cui, **Wenxing Deng**, Liguo Zhang, Zibo Ma, and Fengyao Jiang. 
