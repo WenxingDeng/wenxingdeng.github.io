@@ -10,7 +10,7 @@ Hi! My name is Wenxing Deng. I'm now a senior student in [Beijing University of 
 
 ### <i class="fa fa-envelope-square" aria-hidden="true"></i> Contact
 * mobile: +86 188-1072-5622
-* email: [wenxing_deng@outlook.com](mailto:wenxing_deng@outlook.com)
+* email: [wenxing.deng622@gmail.com](mailto:wenxing.deng622@gmail.com)
 
 ### <i class="fa fa-clone" aria-hidden="true"></i> Profile
 * [CV](/assets/Wenxing_s_Resume.pdf)
