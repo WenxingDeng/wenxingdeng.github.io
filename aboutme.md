@@ -9,7 +9,6 @@ cover-img:
 Hi! My name is Wenxing Deng. I'm now a senior student in [Beijing University of Technology](http://english.bjut.edu.cn/). My major is automation, but I am also interested in computer science. For more information about my experiences, and me in general, feel free to explore this site! 
 
 ### <i class="fa fa-envelope-square" aria-hidden="true"></i> Contact
-* mobile: +86 188-1072-5622
 * email: [wenxing.deng622@gmail.com](mailto:wenxing.deng622@gmail.com)
 
 ### <i class="fa fa-clone" aria-hidden="true"></i> Profile
