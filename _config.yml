@@ -25,7 +25,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/dwx.jpeg"
+avatar: "/assets/img/dwx1.jpeg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -44,10 +44,10 @@ social-network-links:
   email: "wenxing.deng622#gmail.com"
   facebook: Wenxing Deng
   github: WenxingDeng
+  linkedin: wenxing-deng-9a963a1b4/
 #  twitter: daattali
 #  rss: true
 #  reddit: yourname
-  linkedin: wenxing-deng-9a963a1b4
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
