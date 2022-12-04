@@ -7,6 +7,14 @@ cover-img:
 ---
 ## <i class="fa fa-cubes" aria-hidden="true"></i> Projects  
 
+* **Multimodal Question Answering**  
+  
+  - Analyzed and visualized limitations SOTA Visual Question Answering(VQA) datasets in Python including VQA-2.0, GQA and TallyQA, and created an unbiased VQA dataset.
+  - Explored and compared different SOTA cross-modality models on AWS EC2 including ViLT and LXMERT, and
+ran tests on current VQA benchmarks to evaluate the shortcomings of of the models.
+  - Made in-depth error analysis on LXMERT and ViLT's performance, and generated specific types of questions that existing baselines have weak performance in after introducing scene graph generation module and instance mask generation module to the baselines.
+  - Designed an end-to-end question answering system that can utilize auxiliary tasks including instance segmentation and scene graph generation to learn better representations in images based on existing baseline models. 
+
 * **Tracking Semantic Evolutionary Changes in Large-Scale Medical Knowledge Bases**  
   
   - Developed an advanced reasoning approach to tracking the semantic difference in the meanings of medical terms between different versions of medical knowledge bases.
@@ -39,13 +47,15 @@ cover-img:
   [[PAPER]](https://dl.acm.org/doi/10.1145/3340531.3417412)
 
 * **Computing Views of OWL Ontologies for the Semantic Web: A Forgetting-Based Approach**  
-  Jiaqi Li, **Wenxing Deng**, and Yizheng Zhao.
-  Submitted to _WWW 2021_.
+  Jiaqi Li, Xuan Wu, Chang Lu, **Wenxing Deng**, and Yizheng Zhao.
+  _In Proceedings of the Web Conference (WWW) 2021_.
+  [[PAPER]](https://dl.acm.org/doi/10.1145/3442381.3449881)
     
   
 * **Adaptive Optimization of Traffic Signal Timing via Deep Reinforcement Learning**  
-  Tongchao Cui, **Wenxing Deng**, Liguo Zhang, Zibo Ma, and Fengyao Jiang. 
-  Submitted to _Journal of Advanced Transportation_. 
+  Zibo Ma, Tongchao Cui, **Wenxing Deng**, Fengyao Jiang, and Liguo Zhang.  
+  _In Journal of Advanced Transportation, vol. 2021, 2021_.
+  [[PAPER]](https://www.hindawi.com/journals/jat/2021/6616702/)
  
   
 
