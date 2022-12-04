@@ -75,14 +75,7 @@ hr.small {
   margin: -3.125rem 0 0;
 }
 
-.main-content {
-  padding-top: 5rem;
-}
-@media (min-width: 768px) {
-  .main-content {
-    padding-top: 8.125rem;
-  }
-}
+
 
 .hideme {
   display: none;
