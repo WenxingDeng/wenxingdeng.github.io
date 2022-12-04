@@ -136,9 +136,9 @@ img {
     background-image: url({{ site.navbar-img | relative_url }});
     background-attachment: fixed;
   {% endif %}
-  -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
-  -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
-  transition: background .5s ease-in-out,padding .5s ease-in-out;
+  -webkit-transition: background .5s ease-in-out, .5s ease-in-out;
+  -moz-transition: background .5s ease-in-out, .5s ease-in-out;
+  transition: background .5s ease-in-out, .5s ease-in-out;
 }
 
 .navbar-custom,
