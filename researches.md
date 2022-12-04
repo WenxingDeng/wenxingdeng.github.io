@@ -44,9 +44,9 @@ ran tests on current VQA benchmarks to evaluate the shortcomings of of the model
 * **UI-FAME: A High-Performance Forgetting System for Creating Views of Ontologies**  
   Xuan Wu, **Wenxing Deng**, Chang Lu, Peiqi Wei, Yizheng Zhao and Hao Feng.  
  _In 29th ACM International Conference on Information and Knowledge Management (CIKM) 2020_.    
-  [[PAPER]](https://dl.acm.org/doi/10.1145/3340531.3417412)
+ [[PAPER]](https://dl.acm.org/doi/10.1145/3340531.3417412)
 
-* **Computing Views of OWL Ontologies for the Semantic Web: A Forgetting-Based Approach**  
+* **Computing Views of OWL Ontologies for the Semantic Web**  
   Jiaqi Li, Xuan Wu, Chang Lu, **Wenxing Deng**, and Yizheng Zhao.
   _In Proceedings of the Web Conference (WWW) 2021_.
   [[PAPER]](https://dl.acm.org/doi/10.1145/3442381.3449881)
