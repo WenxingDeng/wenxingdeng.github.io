@@ -6,7 +6,7 @@ cover-img:
   - '/img/bigimg/star.jpg' : "Photo by Amy Humphries"
 ---
 
-Hi! My name is Wenxing Deng. I'm now a senior student in [Beijing University of Technology](http://english.bjut.edu.cn/). My major is automation, but I am also interested in computer science. For more information about my experiences, and me in general, feel free to explore this site! 
+Hi! My name is Wenxing Deng. I am currently a second-year student in Master of Computational Data Science (MCDS) program at Carnegie Mellon University. 
 
 ### <i class="fa fa-envelope-square" aria-hidden="true"></i> Contact
 * email: [wenxing.deng622@gmail.com](mailto:wenxing.deng622@gmail.com)
@@ -15,6 +15,7 @@ Hi! My name is Wenxing Deng. I'm now a senior student in [Beijing University of 
 * [CV](/assets/Wenxing_s_Resume.pdf)
 
 ### <i class="fa fa-graduation-cap" aria-hidden="true"></i> Education
+* Master of Science in Computation Data Science, [Carnegie Mellon University](https://www.cmu.edu/)
 * Bachelor of Engineering in Automation(2017-2021), [Beijing University of Technology](http://english.bjut.edu.cn/)
 
 ### <i class="fa fa-star" aria-hidden="true"></i> More Details about Me
