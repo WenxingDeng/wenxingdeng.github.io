@@ -18,6 +18,21 @@ Hi! My name is Wenxing Deng. I am currently a second-year student in Master of C
 * Master of Science in Computation Data Science, [Carnegie Mellon University](https://www.cmu.edu/)
 * Bachelor of Engineering in Automation(2017-2021), [Beijing University of Technology](http://english.bjut.edu.cn/)
 
+### <i class="fa fa-book" aria-hidden="true"></i> Courses
+Following are courses I have taken at CMU.
+| Course Number | Course Name |
+| --- | ----------- |
+| 11-637 | Foundations of Computational Data Science |
+| 10-601 | Introduction to Machine Learning |
+| 15-619 | Cloud Computing |
+| 11-631 | Data Science Seminar |
+| 10-605 | Machine Learning with Large Datasets |
+| 11-634 | MCDS Capstone Planning Seminar |
+| 05-839 | Interactive Data Science |
+| 10-725 | Convex Optimization |
+| 11-632 | Data Science Capstone|
+| 11-635 | Data Science Capstone Research |
+
 ### <i class="fa fa-star" aria-hidden="true"></i> More Details about Me
 * I love travelling and tasting different traditional foods. 
 * I love exercising and I am trying my best to keep fitness. Now I am following Pamela Reif's "15 MIN HIIT WORKOUT" and "20 MIN INTENSE FULL BODY".
