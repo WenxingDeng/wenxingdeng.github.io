@@ -38,7 +38,7 @@ Following are courses I have taken at CMU.
 
 
 
- ### <i class="fa fa-star" aria-hidden="true"></i> More Details about Me
+### <i class="fa fa-star" aria-hidden="true"></i> More Details about Me
 * I love travelling and tasting different traditional foods. 
 * I love exercising and I am trying my best to keep fitness. Now I am following Pamela Reif's "15 MIN HIIT WORKOUT" and "20 MIN INTENSE FULL BODY".
 * I love spicy food!
