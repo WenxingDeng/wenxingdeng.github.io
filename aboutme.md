@@ -32,9 +32,7 @@ Following are courses I have taken at CMU.
 | 05-839        | Interactive Data Science                  | 
 | 10-725        | Convex Optimization                       | 
 | 11-632        | Data Science Capstone                     | 
-| 11-635        | Data Science Capstone Research            | 
-
-
+| 11-635        | Data Science Capstone Research            |  
 
 
 
