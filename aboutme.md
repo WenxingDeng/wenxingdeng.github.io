@@ -15,8 +15,14 @@ Hi! My name is Wenxing Deng. I am currently a second-year student in Master of C
 * [CV](/assets/Wenxing_s_Resume.pdf)
 
 ### <i class="fa fa-graduation-cap" aria-hidden="true"></i> Education
-* Master of Science in Computation Data Science, [Carnegie Mellon University](https://www.cmu.edu/)
+* Master of Science in Computation Data Science(2021-2023), [Carnegie Mellon University](https://www.cmu.edu/)
 * Bachelor of Engineering in Automation(2017-2021), [Beijing University of Technology](http://english.bjut.edu.cn/)
+
+### <i class="fa fa-star" aria-hidden="true"></i> More Details about Me
+* I love travelling and tasting different traditional foods. 
+* I love exercising and I am trying my best to keep fitness. Now I am following Pamela Reif's "15 MIN HIIT WORKOUT" and "20 MIN INTENSE FULL BODY".
+* I love spicy food!
+* I come from Nanchang, China.
 
 ### <i class="fa fa-book" aria-hidden="true"></i> Courses
 Following are courses I have taken at CMU.
@@ -36,8 +42,3 @@ Following are courses I have taken at CMU.
 
 
 
-### <i class="fa fa-star" aria-hidden="true"></i> More Details about Me
-* I love travelling and tasting different traditional foods. 
-* I love exercising and I am trying my best to keep fitness. Now I am following Pamela Reif's "15 MIN HIIT WORKOUT" and "20 MIN INTENSE FULL BODY".
-* I love spicy food!
-* I come from Nanchang, China.
