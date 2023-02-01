@@ -39,6 +39,8 @@ Following are courses I have taken at CMU.
 | 10-725        | Convex Optimization                       | 
 | 11-632        | Data Science Capstone                     | 
 | 11-635        | Data Science Capstone Research            |  
-
+| 11-642        | Search Engines                            | 
+| 16-824        | Visual Learning and Recogniztion          | 
+| 05-899        | Human-Centered NLP                        |  
 
 
