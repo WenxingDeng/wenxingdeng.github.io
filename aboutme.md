@@ -12,7 +12,7 @@ Hi! My name is Wenxing Deng. I am currently a second-year student in Master of C
 * email: [wenxing.deng622@gmail.com](mailto:wenxing.deng622@gmail.com)
 
 ### <i class="fa fa-clone" aria-hidden="true"></i> Profile
-* [CV](/assets/Wenxing_s_Resume.pdf)
+* Please email me to get my latest CV :D
 
 ### <i class="fa fa-graduation-cap" aria-hidden="true"></i> Education
 * Master of Science in Computation Data Science(2021-2023), [Carnegie Mellon University](https://www.cmu.edu/)
